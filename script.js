@@ -7,6 +7,9 @@ let tCounter = document.querySelector("#tCounter");
 // Function: retrieving text input value
 function inpGet () {
     //console.log(tInp.value);
+    if (tInp.value.trim() === "") {
+        return;
+    }
     return tInp.value;
 }
 

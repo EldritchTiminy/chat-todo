@@ -34,10 +34,12 @@ li {
 /* List Item buttons */
 .dltBtn {
     flex-grow: 0;
+    text-decoration: none;
 }
 
 .cptBtn {
     flex-grow: 0;
+    text-decoration: none;
 }
 
 /* List item text spans */
