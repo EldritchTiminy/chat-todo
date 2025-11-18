@@ -12,7 +12,7 @@ A very basic JavaScript practice project. Create a very basic to-do list and mar
 - Complete Tasks
 - Delete tasks
 
-  ## Usage
+## Usage
   - Type the title of task into the input field and hit "enter" or click "Add Task".
   - Click "Delete" to delete a task.
   - Mark a task as finished by clicking "Complete"
